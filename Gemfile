@@ -53,4 +53,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rubocop', '~> 0.75.0', require: false
-gem 'reek', '~> 5.4'
+gem 'active_model_serializers', '~> 0.10.8'
