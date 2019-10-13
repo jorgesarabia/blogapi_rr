@@ -3,3 +3,4 @@ Metrics/BlockLength:
     - describe
     - it
     - configure
+    - context
