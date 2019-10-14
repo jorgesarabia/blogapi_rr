@@ -28,3 +28,5 @@
 
 .rvmrc
 .vscode
+
+/config/database.yml
