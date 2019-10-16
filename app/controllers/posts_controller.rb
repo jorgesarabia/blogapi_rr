@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-# require 'byebug'
-
 # Documentation comment
 class PostsController < ApplicationController
   include Secured
